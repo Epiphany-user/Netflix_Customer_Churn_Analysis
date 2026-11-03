@@ -1,0 +1,21 @@
+# 原始数据，不上传
+data/raw/*.csv
+data/raw/*.zip
+
+# Jupyter缓存
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# R临时文件
+*.Rproj
+*.Rhistory
+*.RData
+*.rds
+
+# Windows系统垃圾
+Thumbs.db
+
+# Python虚拟环境
+venv/
+__pycache__/
+*.pyc
